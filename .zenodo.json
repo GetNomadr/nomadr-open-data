@@ -1,0 +1,12 @@
+{
+  "upload_type": "dataset",
+  "title": "Nomadr Open Data: 338 Places for Digital Nomads",
+  "description": "<p>Free download of Nomadr's headline facts for every place we cover.</p><p><strong>If you use this data, linking to our site (getnomadr.com) is mandatory.</strong></p><p>Free to use under CC BY 4.0. Credit: Nomadr (getnomadr.com), with a link.</p><p>Research is AI-assisted from cited public sources, dated on each page.</p><p>https://getnomadr.com/data</p>",
+  "creators": [{"name": "Nomadr"}],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["digital nomads", "cost of living", "visas", "safety", "remote work"],
+  "related_identifiers": [
+    {"identifier": "https://getnomadr.com/data", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}
