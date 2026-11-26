@@ -1,5 +1,7 @@
 # Nomadr Open Data: 338 Places for Digital Nomads
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24550778.svg)](https://doi.org/10.5281/zenodo.24550778)
+
 Free download of Nomadr's headline facts for every place we cover.
 
 **If you use this data, linking to our site (getnomadr.com) is mandatory.**

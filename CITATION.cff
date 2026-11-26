@@ -6,6 +6,7 @@ authors:
   - name: Nomadr
     website: "https://getnomadr.com"
 url: "https://getnomadr.com/data"
+doi: 10.5281/zenodo.24550778
 license: CC-BY-4.0
 date-released: "2026-11-26"
 keywords:
