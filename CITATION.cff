@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Credit: Nomadr (getnomadr.com), with a link. If you use this data, linking to our site (getnomadr.com) is mandatory."
+title: "Nomadr Open Data: 338 Places for Digital Nomads"
+type: dataset
+authors:
+  - name: Nomadr
+    website: "https://getnomadr.com"
+url: "https://getnomadr.com/data"
+license: CC-BY-4.0
+date-released: "2026-11-26"
+keywords:
+  - digital nomads
+  - cost of living
+  - visas
+  - safety
+  - remote work
